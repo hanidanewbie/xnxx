@@ -1,0 +1,146 @@
+body{
+  background-color: grey;
+}
+.pertama{
+  background-color: #5A639C;
+  font-family: Monospace;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: -40px;
+  
+}
+.pertama a{
+  text-decoration: none;
+}
+.kedua{
+  background-color: #7776B3;
+  font-family: Monospace;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+  
+}
+.kedua a{
+  text-decoration: none;
+}
+.kepala{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 50px;
+  background:#3572EF;
+  color:white;
+  margin-bottom: 20px;
+  border: 2px,solid black;
+}
+.ketiga{
+  font-family: Monospace;
+  background-color: #9B86BD;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+.ketiga a{
+  text-decoration: none;
+}
+.keempat{
+  font-family: Monospace;
+  background-color: #E2BBE9;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+.keempat a{
+  text-decoration: none;
+}
+.penutup{
+  font-family: Monospace;
+  text-align: center;
+}
+.kelima{
+  font-family: Monospace;
+  background-color: #EBECED;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+.kelima a{
+  text-decoration: none;
+}
+.div.kelima{
+  color:pink;
+}
+.bergerak{
+  background-color: white;
+  color: black;
+  font-family: Monospace;
+  border:2px,solid;
+  
+}
+
+.bergerak a{
+  background-color: white;
+  color: black;
+  font-family: Monospace;
+}
+
+.gambar{
+  width: 50vh;
+  margin-bottom: 50px;
+}
+
+.informasi{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: -60px;
+  background-color: #EBECED;
+  border: 2px,solid black;
+  color: #9B86BD;
+}
+.menuju{
+  text-align: center;
+  font-family: Monospace;
+  font-size: 40px;
+  position: relative;
+  top:-60px;
+  text-decoration: none;
+  
+}
+.menuju a{
+  text-decoration: none;
+}
+
+.flowerdash img{
+  width: 200px;
+  height: auto;
+  margin-top: 100px;
+  background-color: #EBECED;
+  border:2px,solid black;
+  
+}
+.entusiast img{
+  width: 200px;
+  background-color: white;
+  margin-top: 20px;
+  border:2px,solid black;
+}
+.serbianfox img{
+  width: 200px;
+  background-color: white;
+  margin-top:20px;
+  border:2px,solid black;
+}
+.menuju{
+  font-family: Monospace;
+}
+.serpihan{
+  font-family: Monospace;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  background-color: orange;
+  color: blue;
+  border: 2px,solid black;
+  
+}
